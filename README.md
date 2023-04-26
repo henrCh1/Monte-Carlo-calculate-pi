@@ -1,2 +1,4 @@
 # Monte-Carlo-calculate-pi
-The program is written in Python and uses the Monte Carlo method to calculate the value of pi./该程序使用Python编写，采用蒙特卡洛方法计算圆周率。
+该程序使用Python编写，采用蒙特卡洛方法计算圆周率。 20世纪40年代，美国启动了研制原子弹的“曼哈顿计划”，由现代计算机之父冯诺依曼领导。在该计划中，冯诺依曼提出了一种名为“蒙特卡洛算法”的新算法，它通过大量随机样本来了解一个高度复杂的系统。 蒙特卡洛是一个以赌博闻名的摩洛哥城市，同时也与概率和随机性有关，因此这个算法得名。该代码有详细的注释，以帮助您更好地理解。
+
+The program is written in Python and uses the Monte Carlo method to calculate the value of pi. In the 1940s, the United States initiated the Manhattan Project to develop atomic bombs, led by the father of modern computers, John von Neumann. During the project, von Neumann proposed a new algorithm called the "Monte Carlo algorithm," which uses a large number of random samples to understand highly complex systems. Monte Carlo is a city in Morocco known for gambling, which is related to probability and randomness, hence the name of the algorithm. The code has detailed comments for better understanding.
